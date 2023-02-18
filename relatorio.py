@@ -6,7 +6,7 @@ from pandas import read_excel
 from time import sleep
 
 
-#alert(f'{"A automação vai começar!".center(70)} \nAperte "Ok" e não mexa em nada até o fim do processo')
+alert(f'{"A automação vai começar!".center(70)} \nAperte "Ok" e não mexa em nada até o fim do processo')
 sleep(3)
 press('WIN')
 sleep(5)
