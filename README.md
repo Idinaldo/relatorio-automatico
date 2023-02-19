@@ -20,5 +20,3 @@ Aqui faremos um relatório diário simples, com o faturamento de uma franquia de
 * Ter o Google Chrome instalado.
 
 * Sistema operacional Windows.
-
-obs: este é um script de programação estruturada
