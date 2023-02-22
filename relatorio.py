@@ -74,3 +74,5 @@ sleep(3)
 hotkey('ctrl', 'enter')
 sleep(3)
 hotkey('ctrl', 'w')
+
+# código feito por Idinaldo
